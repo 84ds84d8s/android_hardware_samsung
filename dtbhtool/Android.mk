@@ -57,4 +57,4 @@ include $(BUILD_EXECUTABLE)
 
 $(call dist-for-goals,dist_files,$(LOCAL_BUILT_MODULE))
 
-include external/dtc/libfdt/Android.mk
+
